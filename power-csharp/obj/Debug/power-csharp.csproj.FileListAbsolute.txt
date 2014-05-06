@@ -1,0 +1,6 @@
+c:\users\deben_000\documents\visual studio 2012\Projects\power-csharp\power-csharp\bin\Debug\power-csharp.exe.config
+c:\users\deben_000\documents\visual studio 2012\Projects\power-csharp\power-csharp\bin\Debug\power-csharp.exe
+c:\users\deben_000\documents\visual studio 2012\Projects\power-csharp\power-csharp\bin\Debug\power-csharp.pdb
+c:\users\deben_000\documents\visual studio 2012\Projects\power-csharp\power-csharp\obj\Debug\power-csharp.csprojResolveAssemblyReference.cache
+c:\users\deben_000\documents\visual studio 2012\Projects\power-csharp\power-csharp\obj\Debug\power-csharp.exe
+c:\users\deben_000\documents\visual studio 2012\Projects\power-csharp\power-csharp\obj\Debug\power-csharp.pdb
